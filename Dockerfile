@@ -2,7 +2,7 @@ FROM php:8.2-apache
 
 # Menginstal ekstensi server yang dibutuhkan Laravel
 RUN apt-get update && apt-get install -y \
-    libzip-dev zip unzip git sqlite3 libsqlite3-dev
+    libzip-dev zip unzip git sqlite3 libsqlite3-dev libpq-dev
 
 # Mengaktifkan URL Rewrite Apache (Wajib untuk Laravel)
 RUN a2enmod rewrite
