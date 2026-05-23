@@ -2,22 +2,14 @@ Ivan Bagaskara
 24.12.3340
 24SI05
 
-# Link Tugas 1
+# Link Drive
 
-kontak: https://eventamikom-3340-main-z5mapu.free.laravel.cloud/kontak
-profil: https://eventamikom-3340-main-z5mapu.free.laravel.cloud/profil
-katalog:https://eventamikom-3340-main-z5mapu.free.laravel.cloud/katalog
-Bantuan:https://eventamikom-3340-main-z5mapu.free.laravel.cloud/bantuan
-https://eventamikom-3340-main-z5mapu.free.laravel.cloud/
+https://drive.google.com/drive/folders/1ND_Rji-5HiiYY_bqNfOpTsFwgxOahccS?usp=sharing
 
-# Link tugas 2
+# Link GitHub
 
-https://eventamikom-3340-main-z5mapu.free.laravel.cloud/
+https://github.com/IvanAbstrak/UTS-DigitalBisnis-3340
 
-# Tugas 3
+# Link Youtube
 
-Menambahkan Database Migration Seeding
-
-# Tugas 4
-
-https://eventamikom-3340-main-z5mapu.free.laravel.cloud/admin/events
+https://youtu.be/qAm571Ldg8Q
